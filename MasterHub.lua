@@ -1,5 +1,5 @@
 -- Master Hub
--- Version: 2.1
+-- Version: 2.12
 -- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
@@ -341,7 +341,7 @@ Blood.TextScaled = true
 Blood.TextSize = 14.000
 Blood.TextWrapped = true
 Blood.MouseButton1Down:connect(function()
-Print(ui cannot load nothing)
+	print("ui cannot load nothing")
 end)
 
 Bedwars.Name = "Bedwars"
@@ -552,7 +552,7 @@ local function ECGMK_fake_script() -- Notes.Script
 		script.Parent.BackgroundColor3 = Color3.new(1,0,0.1)
 		wait(0.10)
 	end
-	
+
 end
 coroutine.wrap(ECGMK_fake_script)()
 local function YMARBDS_fake_script() -- MainUI.Script 
@@ -680,7 +680,7 @@ local function YMARBDS_fake_script() -- MainUI.Script
 		script.Parent.BackgroundColor3 = Color3.new(1,0,0.1)
 		wait(0.10)
 	end
-	
+
 end
 coroutine.wrap(YMARBDS_fake_script)()
 local function GXGHF_fake_script() -- RGBHeading.Script 
@@ -808,7 +808,7 @@ local function GXGHF_fake_script() -- RGBHeading.Script
 		script.Parent.BackgroundColor3 = Color3.new(1,0,0.1)
 		wait(0.10)
 	end
-	
+
 end
 coroutine.wrap(GXGHF_fake_script)()
 local function PZSXRJV_fake_script() -- OpenButton.Script 
@@ -936,6 +936,6 @@ local function PZSXRJV_fake_script() -- OpenButton.Script
 		script.Parent.BackgroundColor3 = Color3.new(1,0,0.1)
 		wait(0.10)
 	end
-	
+
 end
 coroutine.wrap(PZSXRJV_fake_script)()
