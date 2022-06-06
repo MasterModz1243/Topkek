@@ -166,7 +166,7 @@ First.Font = Enum.Font.SourceSans
 
 First.FontSize = Enum.FontSize.Size18
 
-First.Text = "  T0PK3K 4.0"
+First.Text = "  T0PK3K Version 4.0 on Master Hub"
 
 First.TextColor3 = Color3.new(0.721569, 0.027451, 0.211765)
 
