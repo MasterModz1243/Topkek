@@ -341,8 +341,7 @@ Blood.TextScaled = true
 Blood.TextSize = 14.000
 Blood.TextWrapped = true
 Blood.MouseButton1Down:connect(function()
-	getgenv().Blood = "d6df8e508ca3"
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/matrixoddy/blood/main/v17.19FREEdoNOTbuy2"))("Frosty is a retard LMAO")
+Print(ui cannot load nothing)
 end)
 
 Bedwars.Name = "Bedwars"
