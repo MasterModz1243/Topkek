@@ -104,3 +104,4 @@ end
 
 _G.FullBrightExecuted = true
 _G.FullBrightEnabled = not _G.FullBrightEnabled
+print("Fullbright has been loaded click again to disable")
