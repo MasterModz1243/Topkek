@@ -1,5 +1,3 @@
---www.rblxscripts.net--
-
 local Color = Color3.fromRGB(204,0,0) -- you can change the color, if you need a rgb color picker then here, link: https://www.rapidtables.com/web/color/RGB_Color.html
 function createcham(name,parent,face)
     local SurfaceGui = Instance.new("SurfaceGui",parent)
@@ -35,3 +33,4 @@ for i,v in pairs (game:GetService("Players"):GetPlayers()) do
     end
 end
 end
+print("Fullbright has been loaded click again to disable")
