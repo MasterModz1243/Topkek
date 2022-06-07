@@ -33,4 +33,4 @@ for i,v in pairs (game:GetService("Players"):GetPlayers()) do
     end
 end
 end
-print("Fullbright has been loaded click again to disable")
+print("Scipt should be loaded now")
